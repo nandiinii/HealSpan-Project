@@ -46,7 +46,8 @@ This project uses MongoDB as the database. Follow the steps below to set up the 
 All the necessary details about the database including host,port,etc is included in the application.properties of the backend folder.
 
 ## Input Data
-1.The data was inputted through Postman services by using the POST option for url http://localhost:8081/api/healspan/patients
+
+1.The data was inputted through Postman services by using the POST option for url http://localhost:8081/api/healspan/patients .
 2.The data will be passed in JSON format like :
 
 {
