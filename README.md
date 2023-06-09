@@ -28,6 +28,38 @@ npm install
 npm start
 ```
 
+## Database Configuration
+
+This project uses MongoDB as the database. Follow the steps below to set up the MongoDB database:
+
+1. Install MongoDB on your local machine or use a cloud-based MongoDB service.
+2. Create a new MongoDB database.
+3. Note down the following database details:
+
+   - Host: [hostname or IP address]
+   - Port: [port number]
+   - Database Name: [database name]
+   - Authentication: [if applicable, specify username and password]
+
+4. Update the application configuration file with the MongoDB connection details.
+5. Run the application and verify the database connectivity.
+All the necessary details about the database including host,port,etc is included in the application.properties of the backend folder.
+
+## Input Data
+The data was inputted through Postman services by using the POST option for url http://localhost:8081/api/healspan/patients
+The data will be passed in JSON format like 
+{
+    "claimId": "124563",
+    "name": "Nandini",
+    "ailment": "Headache",
+    "sla": "25",
+    "ptat": "2 days",
+    "stage": "Discharge",
+    "status": "TPA Query",
+    "approvedAmount": "5000",
+    "hospital": "ABC Hospital"
+}
+
 ## Images 
 ![image](https://github.com/nandiinii/HealSpan-Project/assets/99135337/eb107391-b01c-426b-892b-db923b191ad9)
 ![Screenshot 2023-06-10 025718](https://github.com/nandiinii/HealSpan-Project/assets/99135337/3f5102b9-4670-4e61-8ec6-1b06163a59bb)
