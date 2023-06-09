@@ -29,4 +29,6 @@ npm start
 ```
 
 ## Images 
-![Alt text] "C:\Users\Nandini\Pictures\Screenshots\Screenshot 2023-06-10 025718.png"
+![image](https://github.com/nandiinii/HealSpan-Project/assets/99135337/eb107391-b01c-426b-892b-db923b191ad9)
+![image](https://github.com/nandiinii/HealSpan-Project/assets/99135337/b797cd37-0e14-4a3c-9e50-6bd95370fc46)
+
