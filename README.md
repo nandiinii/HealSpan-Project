@@ -30,5 +30,6 @@ npm start
 
 ## Images 
 ![image](https://github.com/nandiinii/HealSpan-Project/assets/99135337/eb107391-b01c-426b-892b-db923b191ad9)
-![image](https://github.com/nandiinii/HealSpan-Project/assets/99135337/b797cd37-0e14-4a3c-9e50-6bd95370fc46)
+![Screenshot 2023-06-10 025718](https://github.com/nandiinii/HealSpan-Project/assets/99135337/3f5102b9-4670-4e61-8ec6-1b06163a59bb)
+
 
