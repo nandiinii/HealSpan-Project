@@ -9,7 +9,7 @@ Java Spring Boot, ReactJS, MongoDB
 
 ## How to configure and run
 1. Clone this repository.
-2. cd into 'healspan' folder.
+2. cd into 'healspan' folder for backend.
 ```bash
 cd healspan
 ```
@@ -27,3 +27,6 @@ npm install
 ```bash
 npm start
 ```
+
+## Images 
+![Alt text] "C:\Users\Nandini\Pictures\Screenshots\Screenshot 2023-06-10 025718.png"
